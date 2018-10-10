@@ -1,6 +1,6 @@
-## OsloCTM3  Documentation Material
+## NorESM  Documentation Material
 
-All OsloCMT3 documentation is
+All NorESM documentation is
 made available under the [Creative Commons Attribution
 license][cc-by-human]. 
 
