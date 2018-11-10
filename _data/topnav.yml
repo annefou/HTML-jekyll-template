@@ -1,0 +1,20 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/nordicESMHub/norESM-docs
+    - title: News
+      url: /news
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: documentation
+      folderitems:
+        - title: What is norESM?
+          url: /noresm_introduction.html
+        - title: Getting started
+          url: /noresm_introduction.html
